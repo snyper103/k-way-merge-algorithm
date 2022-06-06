@@ -10,7 +10,7 @@ Uma mesclagem multidirecional (multiway merge) permite que os arquivos fora da m
 Pensando nisso, foi desenvolvido um algoritmo em C para fazer a ordenação externa de dados utilizando o K-way merge sort.
 
 ## Requisitos
-É necessário ter ter o compilador de C/C++ intalado em seu computador.
+É necessário ter ter o compilador de C/C++ intalado em seu computador, também precisará da biblioteca windows.h.
 
 ### Execução
 Basta compilar os arquivos contidos neste repositório e executá-los.
